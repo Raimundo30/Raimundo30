@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 ## About Me
 I'm a student at **Instituto Superior Técnico**. I'm passionate about IT and Gaming.
 
-## 🔭 Current Projects
-- **Virtual Desktop Manager**: a background program that creates and manages Desktop Folders on Windows 11 so that you have different Desktops associated with each Virtual Desktop
-- **DryFountation**: a mod for Valheim that removes water from the vertical space of a fountation so that you can build below the sea level
+## 🔭 Current Project
+- **[Virtual Desktops Folder Manager](https://github.com/Raimundo30/Virtual-Desktops-Folder-Manager)**: a background program that creates and manages Desktop Folders on Windows 11 so that you have different Desktops associated with each Virtual Desktop
 <!-- - **TheUltimateOnlineMultiplayerPresistentWorldGame**: a masterpiece of a spherical voxel world game -->
 
 ## 🌱 I'm currently learning
