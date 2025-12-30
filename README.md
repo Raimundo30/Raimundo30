@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a student at **Instituto Superior Técnico**. I'm passionate about IT and Gaming.
 
 ## 🔭 Current Project
-- **[Virtual Desktops Manager](https://github.com/Raimundo30/Virtual-Desktops-Manager)**: a background program that creates and manages Desktop Folders on Windows 11 so that you have different Desktops associated with each Virtual Desktop
+- **[Virtual Desktops Manager](https://github.com/Raimundo30/Virtual-Desktop-Manager)**: a background program that creates and manages Desktop Folders on Windows 11 so that you have different Desktops associated with each Virtual Desktop
 <!-- - **TheUltimateOnlineMultiplayerPresistentWorldGame**: a masterpiece of a spherical voxel world game -->
 
 ## 🌱 I'm currently learning
